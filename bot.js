@@ -2500,9 +2500,9 @@ message.member.voiceChannel
 
 
 
-//تۆكینه‌كان لێره‌ جا بنێ
+//تۆكینه  كان لێره جا بنێ
 
-client.login("");
+client.login("ODI3OTYwOTU1MTk4NzY3MTA1.YGio7w.GRxgP8dUwiEPQiUijIOHfqMd5ns");
 client2.login("");
 client3.login("");
 client4.login("");
